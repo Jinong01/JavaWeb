@@ -1,6 +1,5 @@
 package day06.it.ac.equals;
 
-import it.ac.list.Student;
 
 public class Person {
 
